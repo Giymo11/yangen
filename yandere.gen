@@ -1,6 +1,22 @@
 - YANDERE GENERATOR
 
 With this handy-dandy chart, you can generate your own horrific murdering machine! This anime stereotype character has two sides: cute and loving, and secretly murderous or otherwise dangerous. Many yanderes love their spouse a little too much, but there are other mental issues that could put a character into the category of "yandere". Now then, why don't we begin? Roll on each table once, unless the description tells you otherwise. If you are told to roll on a table, when you get to that table, roll once, then roll again for each result that told you to roll on that table. If you don't like your result, you can choose the one you like by writing a 100 word prompt about your yandere, which you can find in the description in bold. Dice needed: 1d10, and 1d20. You can roll a 1d20 by rolling a d10 twice, and if the second roll coma up 6-10, add 10 to the result of the first roll.
+Syntax:
+// table beginning:
+// -- for mandatory table
+// --- for mandatory distinct table (only one option can be chosen)
+// ---- for optional table
+// ----- for optional distinct table
+// the first word after the table beginning is called "shortname", like "Age" on the table below
+//
+// jump markers:
+// ##Shortname roll## for a roll on another table
+// ##Shortname +int## adds/subtracts the amount to/from a type of table
+// ##Shortname int## sets the amount of a distinct table
+// ##Shortname 0## deletes a table type
+// distinct tables cannot have jump markers!
+//
+// a line has to have at least
 
 -- Age: How old is your yandere? What is your yandere's room like? (You can write about this for Age, Skin, Eyes or Hair.)
 Roll 1d10.
