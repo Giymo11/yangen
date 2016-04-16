@@ -47,5 +47,4 @@ object Parser {
 
     (min to max, answer)
   })
-
 }
