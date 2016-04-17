@@ -5,8 +5,12 @@ import view.StringRenderer
 /**
   * Created by giymo11 on 04.04.16.
   */
-object Main extends App {
+object YangenApp extends App {
   import ammonite.ops._
+
+  println("hello world!")
+  println(cwd)
+  println(ls! cwd)
 
   val inputFiles = ls! cwd |? (_.ext == "gen")
 
