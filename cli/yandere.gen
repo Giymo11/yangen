@@ -1,0 +1,327 @@
+- YANDERE GENERATOR
+
+With this handy-dandy chart, you can generate your own horrific murdering machine! This anime stereotype character has two sides: cute and loving, and secretly murderous or otherwise dangerous. Many yanderes love their spouse a little too much, but there are other mental issues that could put a character into the category of "yandere". Now then, why don't we begin? Roll on each table once, unless the description tells you otherwise. If you are told to roll on a table, when you get to that table, roll once, then roll again for each result that told you to roll on that table. If you don't like your result, you can choose the one you like by writing a 100 word prompt about your yandere, which you can find in the description in bold. Dice needed: 1d10, and 1d20. You can roll a 1d20 by rolling a d10 twice, and if the second roll coma up 6-10, add 10 to the result of the first roll.
+Syntax:
+// table beginning:
+// -- for mandatory table
+// --- for mandatory distinct table (only one option can be chosen)
+// ---- for optional table
+// ----- for optional distinct table
+// the first word after the table beginning is called "shortname", like "Age" on the table below
+//
+// jump markers:
+// ##Shortname roll## for a roll on another table
+// ##Shortname +int## adds/subtracts the amount to/from a type of table
+// ##Shortname int## sets the amount of a distinct table
+// ##Shortname 0## deletes a table type
+// distinct tables cannot have jump markers!
+//
+// a line has to have at least
+
+--- Age: How old is your yandere? What is your yandere's room like? (You can write about this for Age, Skin, Eyes or Hair.)
+Roll 1d10.
+1-3: Your yandere is younger than you, by 5-10 years. Onii-chan!
+4-7: You're the same age. How convenient! (And likely.)
+8-10: Your yandere is older than you by 5 or 10 years. Ara ara-.
+
+--- Skin:
+Roll 1d10.
+1-2: Very dark/black
+3-4: Deeply tanned
+5-6: Tanned
+7-8: Light
+9-10: Very light/pale
+
+--- Eyes:
+Roll 1d10.
+1-5: Brown or black
+6-8: Blue
+9-10: ##EyesOptional roll##
+
+----- EyesOptional:
+Roll 1d10.
+1-2: Red
+3-4: Yellow
+5-6: Purple
+7-8: Green
+9-10: Shifting Colors
+
+--- Hair:
+Roll 1d10.
+1-3: Black
+4-6: Brown
+7-8: Blonde
+9: Red
+10: ##HairOptional roll##
+
+----- HairOptional:
+Roll 1d10.
+1-2: Green
+3-4: Purple
+5-6: Blue
+7-8: White
+9-10: A blend of two colors of your choice
+
+--- Breasts: What's under her shirt? Why are you attracted to her?
+Roll 1d10.
+1: She's got nothing there, flat as a board. She's an A cup at best.
+2-4: Her breasts are small, but very sensitive. B or C cup.
+4-7: Her breasts are average, at about a D cup. Great for cupping!
+8-9: Her tits are huge. She's got an E-cup, and she might have back problem!
+10: She has huge knockers! She's got an F or G cup, depending on your tastes.
+
+--- Ass: Does she have junk in the trunk? Why is she attracted to you?
+Roll 1d10.
+1: The flattest. Don't want none unless you got buns, hut!
+2-4: Getting there. It's not much to look at, but a good flex would improve it.
+4-7: Her ass is average. Good enough for most.
+8-9: Aw shit. Now you can take your hand and squeeze that shit!
+10: DAMN! You like big butts and you cannot lie, she's definitely got one!
+
+-- Background: Where does she come from> How did you meet your yandere?
+Roll 1d10.
+1: Your yandere is supernatural. She might be a spirit, or a monster of some kind. She might even be some kind of monster girl. ##Magic roll##
+2: Your yandere is extremely rich. Her parents might own a large corporation. They own a private island, and she has an army of private servants at her beck and call. She has money, and she's willing to use it.
+3: Your yandere is the daughter of a politician. She might not be fabulously wealthy, but she's well off. More importantly, she has connections that she can call upon that might get certain things... ignored.
+4: Your yandere is a loner. She doesn't talk to other people much, and she avoids them as much as she can, apart from you of course. ##Interests roll## ##Interests roll##
+5: Your yandere is an orphan. She had to live on the street to survive, learning to scavenge food for herself and live under the hatred of others. The experience may have scarred her. ##Interests 3##
+6: Your yandere is completely normal. Or just maybe, she's good at keeping up appearances. Nobody will suspect a thing from her.
+7: Your yandere is a childhood friend of yours, and she knows you and your family intimately. Your family won't see anything strange about her creeping around your house, and will give her all the keys she needs to get anywhere.
+8: Your yandere is a foreigner. She comes from another country. She speaks its languages and practices its customs. She's got more worldly experience than you, and she has contacts in other countries that she can use.
+9: Your yandere is poor. She probably comes from a family of seven, where she was neglected due to her parents not having enough time for her. Even so, she has that family, and she can use it against you.
+10: Your yandere is a magical girl. Somehow, she got ahold of a contract of some sort, and now the can use magic to her advantage. Her patron may have an unknown objective that involves your death. ##Magic 9##
+
+-- Personality: How is she on the outside? What At her peers think of her?
+Roll 1d10.
+1: She is innocent. She doesn't know much about the world.
+2: She is a doormat. She will do anything you tell her... to a point.
+3: She is an airhead. She has her own incomprehensible rhyme and reason.
+4: She is calm and cool. She will remain stoic and cold until she snaps.
+5: She is tsundere. It's not like I want to kill you, baka!
+6: She is active and energetic. She has lots of willpower and personal power.
+7: She is shy. She won't talk much, and you don't want to hear it anyway.
+8: She is proper and courteous. She follows all procedures and plans to a fault.
+9: She is a slut. She craves the dick, especially yours.
+10: She is dark and sad. You'd say she had depression, didn't know the truth.
+
+-- Intelligence and Athletics: Is she smart or fast? When were you impressed by her intelligence physical abilities, or when were you disappointed by them?
+Roll 1d10.
+1-3: Your yandere is extremely intelligent. She learns new things quickly, and she has a wealth of knowledge already built up. ##Intelligence1 roll##
+4-7: Average: She doesn't appear smart or strong. But she's hiding something. ##Intelligence2 roll##
+8-10: Your yandere is very athletic. She may be on the track and field team, or participate in other sports. ##Intelligence3 roll##
+
+---- Intelligence1:
+Roll 1d10.
+1-3: She's a genius. She's likely already won awards for her intellect, and you won't be able to outsmart her.
+
+---- Intelligence2:
+Roll 1d10.
+1-3: She's hiding her keen intellect from you through a veneer of idiocy.
+8-10: She's hiding her strength and speed from you until a critical moment.
+
+---- Intelligence3:
+Roll 1d10.
+8-10: Your yandere is so fit chat she is Olympic level. You won't be able to outrun her.
+
+-- Interests: What does she enjoy in her free time? What is she planning for you, related to these interests?
+Roll 1d20.
+1-3: Your crazy waifu is interested in firearms and tactics. She has studied die wars of the past, and she can recite the major Swedish arms companies by heart. ##Interests1 roll##
+3-6: Your crazy waifu is interested in survivalism. She's great at camping, hiking, fishing, and all the skills you need to survive by yourself. She's also good at archery and disassembling animals into their usable parts. ##Interests2 roll##
+7-8: Your crazy waifu is interested in martial arts. She might do judo, or karate, or perhaps she wields a sword. ##Interests3 roll##
+9: Your crazy waifu is interested in sports. She plays a team sport or is on a sports team, and she's got the support of her team behind her. ##Interests4 roll##
+10: Your crazy waifu is interested in television and mass media. She knows the right people, and knows exactly who to look out for in the realm of popularity. ##Interests5 roll##
+11: Your waifu is interested in books. She reads all the time, and knows many things. She has extensive knowledge on: ##Interests roll##
+12: Your crazy waifu is interested in cooking. She can whip up a mean meal with any kind of ingredients you give her. ##Interests6 roll##
+13: Your crazy waifu is interested in art. She may be a painter or a sculptor, or she may write prose or poetry. ##Interests7 roll##
+14: Your crazy waifu is interested in computers. She may be a programmer or network manager, and she knows exactly where she needs to go to get what she needs on the 'net. ##Interests8 roll##
+15-16: Your waifu is interested in science. Formulas and theories rattle around her brain, mystifying her classmates and catching the attention of sponsors. ##Interests9 roll##
+17-18: Your crazy waifu is interested in the occult. She likes stuff like ghosts, UFO sightings, and tarot cards. ##Interests10 roll##
+19-20: Your crazy waifu is interested in magic. She may be a witch or some other supernatural creature, and she may be hiding it from you. ##Magic roll##
+
+---- Interests1
+Roll 1d10.
+1-5: She owns a small armory, with plenty of weapons in stock, maintained, and ready to use.
+
+---- Interests2
+Roll 1d10.
+1-5: she has a small but in the woods that nobody knows about, except her.
+
+---- Interests3
+Roll 1d10.
+1-5: She's a black belt or equivalent in the martial art of your choice.
+
+---- Interests4
+Roll 1d10.
+1-5: Her team is a little TOO supportive, and will do anything for her.
+
+---- Interests5
+Roll 1d10.
+1-5: She writes or owns a newspaper or famous blog and has many fans that will perform task she asks of them.
+
+---- Interests6
+Roll 1d10.
+6-10: She has several spices you don't know about. They may be... less than legal.
+
+---- Interests7
+Roll 1d10.
+6-10: She has eidetic memory. That means she will remember everything you say, to the letter.
+
+---- Interests8
+Roll 1d10.
+6-10: She's installed a backdoor into every electronic device you own, and she has easy access to all their data.
+
+---- Interests9
+Roll 1d10.
+6-10: She is an expert on anatomy and psychology, and can pick you apart like a rat in a cage.
+
+---- Interests10
+Roll 1d10.
+6-10: She has minor knowledge of magic. ##Magic roll##
+
+-- Height: How tall is she? How does she feel about her height?
+Roll 1d10.
+1-3: Much shorter than you, at least by two or three heads. Hope you like leaning!
+4: About a head shorter than you. This is the ideal height of a lot of men.
+5: Right around your height. Perfect for kissing!
+6: About a head taller than you. Some guys are into that.
+7-10: Much taller than you, by at least two or three heads. She's very tall!
+
+-- Weight: How big is she? How does she feel about her weight?
+Roll 1d10.
+1-3: Skinny. She fits into the kind of jeans that most girls dream about. ##Skinny roll##
+4-6: She's average for her age. Not very exciting!
+7-10: Chubby. Some men like meat on those bones! ##Chubby roll##
+
+---- Skinny:
+Roll 1d10.
+1-3: ##Breasts -2## ##Ass -2##
+
+---- Chubby:
+Roll 1d10.
+7-10: ##Breasts +2## ##Ass +2##
+
+-- Distinctive Physical Features: Write about a date you had with her.
+Roll 1d20.
+1: There's something magical about her. ##Magic roll##
+2: She's related to your blood. This makes her your sister, mother, aunt or cousin.
+3: She's disabled, choose from blind, deaf or mute.
+4: Albino. She can t go out in the sun very much, but she's very exotic! Some people might discriminate against her though. ##Hair 0## ##HairOptional 7## ##Eyes 0## ##EyesOptional 1## ##Skin 10##
+5: Muscular. She might have hit the gym a few times without you noticing, but her muscles tell you all you need to know! ##Intelligence 7##
+6: Long legs. Some men love legs and thighs, and she provides. ##Height +2##
+7: Very long hair, all the wvay down to her feet. It might be in braids, or hanging there loosely, just like nature intended.
+8: Crazy hairstyle. She might have drills, or some weird thing that you swear needs hair gel to assemble.
+9: Freckles. They're small and faint, but they're cute as heck. about her physical appearance.
+10: There's nothing really special.
+11: Glasses. Some men go ga-ga for spectacles, and she has them, but she only needs them for reading if you prefer, she'll wear them all the time. The style and color are up to you. ##Hair 0## ##HairOptional 10##
+12: Crazy hair color. ##Hair 0## ##HairOptional 10##
+13: Full lips. Very attractive, and very kissable.
+14: Hidden breasts. She hides them, and the reality is: ##Breasts +3##
+15: Very soft skin and perfect facial features. Her face is gorgeous.
+16: Strange style of dress. She wears strange clohes that wouldn't look out of place in a Final Fantasy game.
+17: Strange eyes. She might have cat eyes or goat pupils, or dark sclera.
+18: Tattoos. Hey, some of them are fashionable! ##Tatoo roll##
+19: Sickly. She has a bad constitution and needs medicine every day, or she dies.
+20: You can tell something is wrong with her, and it's leaking through to how she looks. ##Insanity roll##
+
+---- Tatoo:
+Roll 1d10.
+4-5: You can find your name somewhere on her body...
+6-10: Her entire body is covered in a huge, full-body tattoo.
+
+----- Magic:
+Roll 1d20.
+1: She's secretly a being from outside space. Think Cthulhu, but cute.
+2: She's secretly a time-traveler. She will love you for all your life, literally.
+3: She's a dragon. She is very possessive, can fly, and can breathe fire on you.
+4: She's a lamia, with the lower body of a snake. She can crush you easily.
+5: She's a vampire. She can suck your blood, and finds it very erotic.
+6: She's a spider-woman. She can wrap you up in her silk and keep you there.
+7: She can change her appearance at will, to anything she desires.
+8: She's an alien. She lives a long time, and is much smarter than you are.
+9: She's a witch. She can cast magic spells, and curse you if you cheat on her.
+10: She's a cat girl. She has cat ears and a tail, and she can smell you easily.
+11: She has two forms, one younger and one older, and can switch at will.
+12: She's an elf. She lives a very long time, and her eyes are as sharp as a hawk's.
+13: She's a robot or AI. She is immortal, and nearly indestructible.
+14: She's a ghost. She's immortal and can go anywhere she wants, unstoppable.
+15: She's a kitsune. She has a few magic powers and many tricks up her sleeve.
+16: She's a succubus. She's great at sex, but it'll kill you if you do it with her.
+17: She's a fairy. Sie can change her size at will, and has a few outsider powers.
+18: She's psychic. She has clairvoyance and can read minds at close range.
+19: She's immortal. She'll live forever with you, and you can't kill her.
+20: She can bend reality to her whims. I don't need to say why this is bad, do I?
+
+-- Insanity: How is she bonkers? Write about an encounter where she went particularly insane.
+Roll 1d20.
+1: Your generated waifu is self-aware and wants this computer screen to get out of the way. But don't worry, she loves you very much. ##Weapons roll## ##Weapons 20## ##Tells roll## ##Tells 20##
+2: Your waifu absolutely adores looking at you way too much. It starts with stalking you to stare at you, turns into cameras that track your every move, and ends with you locked in a glass viewing At for her to stare at forever. ##Tells roll## ##Weapons roll##
+3: Extreme masochist. Very into SAM play, and will eventually start to mutilate herself in pursuit of greater pain. But because she loves you so much, shell make sure you're the one to kill her. ##Tells roll## ##Weapons roll##
+4: She has multiple personalities. Her memory barely works and she can switch between four personalities. One of them is normal, another is innocent, the third is a slut, and the final one is a murderer. The personality you rolled is her "normal" one, and her personality switches each time she shows her tell. ##Weapons roll## ##Tells roll## ##Tells roll##
+5: Deeply, obsessively religious, and she sees you as a god. She will build shrines to you in places that you often go to, just out of sight. She also has a room filled with photos of you. ##Tells roll## ##Weapons roll##
+6: She believes in the inevitability of fate, and that the two of you are destined to be together forever. She is forgiving, but knows that every love story has its interlopers, and anything outside of her destined love story will be eliminated permanently. ##Weapons roll## ##Tells roll## ##Tells roll##
+7: She's into some serious drugs, and she's even more into you. She wants to ascend to a higher plane of existence with you through psychotropic drugs, and will start spiking everything you eat and drink until you gain enough tolerance to go on the biggest drug trip of your life, which also means that you're going to overdose and accidentally die. ##Tells roll## ##Weapons 7##
+8: Complete and utter self-hatred. Believes that nothing good can actually happen to her, that you can't possibly love her, and that she needs to wake up from her dream soon by dying. ##Weapons roll## ##Tells roll## ##Tells roll##
+9: You are her absolute perfect husband, and she wants nothing more to spend her entire life with you. She will take you to meet her family, and they're even worse, going so far as to kidnap you to mold you into an even better husband for their daughter. They won't hurt you, but you won't have any freedom. ##Weapons roll## ##Tells roll##
+10: She is extremely dedicated to you, at all costs. She will attend to your every whim, and will do anything you ask her, going so far as to become a maid if you want her to. However, she will not let anyone else have you, and will gleefully murder any other woman that gets near you. ##Weapons roll## ##Tells roll## ##Tells roll##
+11: She has severe trust issues, and hates it when you're out of her sight. She starts off moderately clingy, but she will eventually confine you to a basement or cellar, attending to you day and night. ##Weapons roll## ##Tells roll##
+12: She is obsessed with data and numbers and wants to quantify her love for you, It she can objectively show you how much she loves you. She's going to measure everything you do, from your walking speed to your heartbeat. Then it's going to start getting uncomfortable as she measures the length of your tongue, the width of your anus, and other such things. But then she's going to find herself wanting, and the best way to find out how much she loves you is to measure her heart, literally. ##Weapons roll## ##Tells roll##
+13: Martyr complex. She will die for complete strangers, and you, easily. If she sees anyone being wronged, she will enforce justice, lethally, but will go especially mad if you're involved. ##Weapons roll## ##Tells roll##
+14: She is involved in a major crime ring. She's not crazy, but everyone else around her is, and they'll come after you. ##Weapons roll## ##Weapons roll## ##Tells roll##
+15: She believes that she has a supernatural connection with you from a past life, and she wants to get as close to that past life as possible, no matter what you have to say about it. ##Weapons roll## ##Tells roll## ##Tells roll##
+16: Blood worshipper. Similar to 5, but instead of building shrines to you, she believes that you can only be sated by the blood of innocents. You'll find a pile of skulls slathered in blood in the shape of a throne near your front door soon. ##Weapons roll## ##Weapons roll## ##Weapons roll## ##Tells roll##
+17: She needs to be near you at all times, and can't communicate with other people. If you leave her, she'll go berserk. ##Weapons roll## ##Tells roll## ##Tells roll## ##Tells roll##
+18: Extreme sadist. She is very into SAM play, and will become a mass murderer in pursuit of greater pleasure. ##Weapons roll## ##Tells roll## ##Tells roll## ##Tells roll##
+19: This girl travels through time, or at least she'd like you to think that. She's replayed the past three years hundreds of times to win your affections, and now she's getting desperate. Her mind isn't exactly in the best of shape, so you're not sure if this is just a fantasy or if she's really done this before. She does have an eerie knowledge of what is going to happen to you... ##Weapons roll## ##Tells roll## ##Tells roll##
+20: Your yandere has a twin sister, and they're both insane for you. They're perfectly willing to share you amongst themselves, but if anyone else gets in the way, they'll quickly be removed by any means necessary. They look very similar, and you could swear that if one of them did their hair just the right way, you wouldn't be able to tell who is who. The first sister is the first result and the second sister is the second result. If you get another 20, they're triplets and so on! ##Print 1## ##Insanity roll## ##Print 2## ##Insanity roll## ##Print 3## ##Weapons roll## ##Tells roll##
+
+---- Weapons: What is her signature weapon?
+Roll 1d20.
+1: She has a secret arsenal of firearms and weapons. A complete set of every killing implement on earth.
+2: She has deadly animals, poisonous like snakes, or brutal like bears.
+3: She has her fists and legs, honed to sharp perfection.
+4: She has a speargun, usually used to hunt sharks.
+5: She has a strange bludgeoning instrument, like a chair or wooden log.
+6: She has a giant pair of scissors that can split a person in two.
+7: She has poisons, hundreds upon hundreds of different kinds.
+8: She has a normal bludgeoning weapon like a club or ma..
+9: She has a longsword or katana.
+10: She has the classic, a sharp and long kitchen knife.
+11: She has a single firearm, like a pistol, shotgun, or sniper rifle.
+12: She has a big cleaver, used to cut apart meat.
+13: She has needles, stuck through every part of the body.
+14: She has a naginata or spear.
+15: She has crucifixion nails that can go through bone and pin through walls.
+16: She has vials of acid that burn through skin.
+17: She has piano wire.
+18: She has scalpels, deadly and precise.
+19: She has deadly traps, set up everywhere you go.
+20: She has a magic or supernatural method.
+
+---- Tells: How does she show her insanity? What made her crack?
+Roll 1d20.
+1: She starts having empty, dead, vacant eyes.
+2: She starts emitting frantic whispering and muttering.
+3: She starts biting her thumb so hard it bleeds.
+4: She starts hyperventilating.
+5: She starts spouting random numbers.
+6: She starts talking very slowly and deliberately.
+7: She messes with her clothing, pulling hard enough to rip.
+8: She fiddles with the nearest sharp object.
+9: She starts to rip out her own hair.
+10: She grabs your face and stares deeply into your eyes.
+11: She grabs your arm and won't let go until she calms down.
+12: She gets unreasonably, impossibly angry.
+13: She leaves, and goes somewhere you'll never find her.
+14: She starts coming on to you, hard.
+15: She starts laughing hysterically, almost evilly.
+16: She starts taking out her phone and takes photographing of everything.
+17: She starts narrating everything around her in stream of consciousness, revealing exactly what she's thinking about.
+18: She starts masturbating, no matter the circumstances.
+19: She runs away and hides in a corner somewhere in the fetal position, crying and asking for you.
+20: She pulls out her weapon and starts fondling it.
+
+---- Print:
+Roll 1d1000.
+1: -- First sister:
+2: -- Second sister:
+3: -- Both:
